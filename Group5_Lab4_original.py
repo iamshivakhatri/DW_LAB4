@@ -17,7 +17,7 @@ ws = wb.active
 csv_filename = "Group5.csv"
 
 # Manually hard coding the categories
-category = ["Child Labour Total", " ", "Child Labour garcons", " ", "Child Labour files", " ", "Child marriage by 15",
+category = ["Child Labour Total", " ", "Child Labour in male", " ", "Child Labour in female", " ", "Child marriage by 15",
             " ", "Child marriage by 18",
             " ", "Birth registration total", " ", "Female genital cutting in women", " ",
             "Female genital cutting in girls ", " ",
